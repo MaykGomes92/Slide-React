@@ -38,6 +38,9 @@ function App() {
           <div className="containerSlides">
             <img onClick={esquerda} id="seta1" src={seta} alt="seta"/>
               <div ref={dados} className="slides">
+                  <img src={carro1} alt="carro"/>
+                  <img src={carro2} alt="carro"/>
+                  <img src={carro3} alt="carro"/>
                   <img src={carro4} alt="carro"/>
                   <img src={carro5} alt="carro"/>
                   <img src={carro6} alt="carro"/>
