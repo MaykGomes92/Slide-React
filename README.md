@@ -4,6 +4,11 @@ Um slide simples, feito em React, utilizando o Hook useRef;
 
 * Feito para conseguir navegar entre os slides, clicando nas setas ou deixando ele mesmo passar sozinho, de 3 em 3 segundos, e ao chegar no final, ele volta a primeira imagem do slide.
 
+#
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+<a href='https://slide-react.vercel.app/'>Visite o site</a>
+#
+
 ## Se adaptando a qualquer tipo de tela.
 
 ![image](https://user-images.githubusercontent.com/77819811/155478382-4a26a295-5499-467d-9147-132df0092e22.png)
