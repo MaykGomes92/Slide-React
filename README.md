@@ -1,5 +1,6 @@
 ## Slide feito em React
-
+<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+  
 Um slide simples, feito em React, utilizando o Hook useRef;
 
 * Feito para conseguir navegar entre os slides, clicando nas setas ou deixando ele mesmo passar sozinho, de 3 em 3 segundos, e ao chegar no final, ele volta a primeira imagem do slide.
